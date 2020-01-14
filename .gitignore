@@ -7,8 +7,8 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 # Serenity-BDD *
-target/
-out/
-.idia/
+/target/
+/out/
+/.idea/
 history/
 *.class
