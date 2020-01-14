@@ -9,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/google/www/userinterfaces/PaginaPrincipalPlazaveaPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/google/www/runners/AgregarProductoCarritoCompra.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/google/www/stepdefinitions/AgregarProductoCarritoCompraStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -464,7 +465,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578969994371" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578970351616" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
