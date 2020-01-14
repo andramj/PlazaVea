@@ -1,0 +1,7 @@
+serenity.project.name = RetoSophos
+webdriver.driver=chrome
+webdriver.base.url = https://www.plazavea.com.pe/
+webdriver.timeouts.implicitlywait = 10000
+webdriver.wait.for.timeout = 10000
+serenity.take.screenshots.for.interactions=FOR_FAILURES
+chrome.switches = -start-maximized;--incognito;--disable-download-notificationr

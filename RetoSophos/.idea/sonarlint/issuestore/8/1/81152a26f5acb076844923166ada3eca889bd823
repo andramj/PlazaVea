@@ -1,0 +1,10 @@
+
+jsquid:S3008	"SRename this field "BUSCADOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û±ÿÊ
+msquid:S3008
+"QRename this field "POP_UP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( £“‰úÿÿÿÿ
+Esquid:S1444	".Make this "public static BUSCADOR" field final(û±ÿÊ
+Hsquid:S1444
+",Make this "public static POP_UP" field final( £“‰úÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck	"TMake BUSCADOR a static final constant or non-public and provide accessors if needed.(û±ÿÊ
+…"squid:ClassVariableVisibilityCheck
+"RMake POP_UP a static final constant or non-public and provide accessors if needed.( £“‰úÿÿÿÿ
