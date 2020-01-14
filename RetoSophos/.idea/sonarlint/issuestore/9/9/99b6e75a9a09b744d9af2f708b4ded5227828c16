@@ -1,9 +1,0 @@
-
-xsquid:S3008"\Rename this field "CONTINUAR_CARRITO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(צ¨׃קרÿÿÿÿ
-Ssquid:S1444"7Make this "public static CONTINUAR_CARRITO" field final(צ¨׃קרÿÿÿÿ
-‡"squid:ClassVariableVisibilityCheck"YMake ABRIR_CARRITO a static final constant or non-public and provide accessors if needed.(–‏ך·
-"squid:ClassVariableVisibilityCheck"]Make CONTINUAR_CARRITO a static final constant or non-public and provide accessors if needed.(צ¨׃קרÿÿÿÿ
-osquid:S3008"XRename this field "ABRIR_CARRITO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–‏ך·
-Jsquid:S1444"3Make this "public static ABRIR_CARRITO" field final(–‏ך·
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ú£ûׂ‏ÿÿÿÿ
-fsquid:S00100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ק¢§½
